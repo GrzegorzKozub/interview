@@ -14,9 +14,12 @@ Random questions for mid and senior developer interview. They aim to be open and
 - In a web app or API, why is high memory allocation bad?How to avoid it?
 - What's the advantage of TypeScript over JavaScript?
 - Which problems with Object Oriented Programming are tackled by Functional Programming?
+- How do you feel about statically vs. dynamically typed programming languages?
+- What is Node.js Event Loop and why do developers using this runtime need to understand it?
 
 ## APIs
 
+- What are the common technical considerations for public APIs?
 - When should we chase the higher REST maturity levels?
 - What is caching and rate limiting? Why does it matter?
 - How to communicate and maintain the shape of the API endpoints, models and validation? Are there any standards?
@@ -31,6 +34,8 @@ Random questions for mid and senior developer interview. They aim to be open and
 ## Architecture
 
 - What is evolutionary architecture?
+- What are the characteristics of a mature microservices architecture?
+- Which architectural principles and practices help the DevOps teams to work as independent of each other as possible? 
 
 ### Component architecture
 
@@ -53,6 +58,9 @@ Random questions for mid and senior developer interview. They aim to be open and
 
 - What are the differences between authenticating a web page and an API?
 - What kind of attacks do you know? How do we prevent them?
+- According to OWASP, Broken Access Control and Cryptographic Failures are the top security risks in 2021. What would they potentially lead to? 
+- What are Delegation Tokens used for? 
+- What’s (Cross-Origin Resource Sharing) for and how does it work in general? 
 
 ## Testing
 
@@ -73,4 +81,5 @@ Random questions for mid and senior developer interview. They aim to be open and
 - How do we implement feedback loops from our customers and our systems? Why does it matter? What's the difference between monitoring and telemetry?
 - Why is "doing DevOps" measuring and optimizing: deployment frequency, delivery lead time, time to restore and failure rate?
 - What is a DevOps team?
+- How would you approach investigating a production incident? Where would you start? What would be the steps? 
 
