@@ -11,7 +11,7 @@ Random questions for mid and senior developer interview. They aim to be open and
 ## Languages
 
 - When should we use async programming? What do compilers do with async/await?
-- In a web app or API, why is high memory allocation bad?How to avoid it?
+- In a web app or API, why is high memory allocation bad? How to avoid it?
 - What's the advantage of TypeScript over JavaScript?
 - Which problems with Object Oriented Programming are tackled by Functional Programming?
 - How do you feel about statically vs. dynamically typed programming languages?
